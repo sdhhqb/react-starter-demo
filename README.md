@@ -8,18 +8,18 @@ use:
 
 使用方法：
 
-安装依赖包
+1.安装依赖包
 
     cd react-starter-demo
     npm install
 
-开发调试
+2.开发调试
 
     npm run dev
+    
+    访问 http://localhost:8088/
 
-打包
+3.打包代码
 
     npm run build
 
-
-访问： http://localhost:8088/
