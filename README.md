@@ -1,2 +1,25 @@
 # react-starter-demo
-show how to configure webpack, babel for new to react.
+
+show how to configure webpack and babel, reference for new to react.
+
+供react初学者参考的简单例子，展示怎样配置webpack和babel。
+
+use:
+
+使用方法：
+
+安装依赖包
+
+    cd react-starter-demo
+    npm install
+
+开发调试
+
+    npm run dev
+
+打包
+
+    npm run build
+
+
+访问： http://localhost:8088/
