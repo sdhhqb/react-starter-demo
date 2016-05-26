@@ -19,7 +19,7 @@ var config = {
 					path.resolve(__dirname, "js")
 				],
 				exclude: [
-					path.resolve(__dirname, "/build"),
+					path.resolve(__dirname, "build"),
 					path.resolve(__dirname, "node_modules")
 				],
 				loader: 'babel-loader',
